@@ -1,5 +1,12 @@
 import turtle
+"""
+drawCircle() function will draw a circle on the screen based on the coordination 
+and color that provided 
 
+@ x : X coordinate
+@ y : Y coordinate
+@ color : the color of the circle
+"""
 
 def drawCircle(x,y,color):
 

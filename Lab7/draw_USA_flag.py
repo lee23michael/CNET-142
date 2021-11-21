@@ -2,15 +2,7 @@ import turtle
 import time
 
 def draw_USA_flag():
-    '''
-    # create a screen
-    screen = turtle.getscreen()
-    # set background color of screen
-    screen.bgcolor("white")
-    # set tile of screen
-
-    screen.title("USA Flag - https://www.pythoncircle.com")
-    '''
+   
     # "Yesterday is history, tomorrow is a mystery, 
     # but today is a gift. That is why it is called the present.”
     # — Oogway to Po, under the peach tree, Kung Fu Panda Movie
@@ -133,8 +125,8 @@ def draw_USA_flag():
     draw_five_stars_rows()
     # hide the cursor/turtle
     oogway.hideturtle()
-    # keep holding the screen until closed manually
-    #screen.mainloop()
+    
+   
 
         
 

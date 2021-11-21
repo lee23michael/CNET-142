@@ -2,11 +2,9 @@ from datetime import datetime
 import sys
 import os
 """
-This program will print out the basic information of the author 
-
+This program will print out author's name, program name, and currnt time
 @name programmer's name
-@labNum  lab number
-@labName lab's name
+
 """
 def print_first(name):
 
